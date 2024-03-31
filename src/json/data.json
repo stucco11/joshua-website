@@ -1,0 +1,76 @@
+{
+  "work-experience": [
+    {
+      "title": "Nelnet, Inc.",
+      "position": "Software Engineer",
+      "startDate": "7/1/2021",
+      "endDate": null,
+      "description": "desc text",
+      "image": "Nelnet.png",
+      "duties": [
+        "Maintain multiple internal applications while assisting with concurrent modernization efforts of those applications.",
+        "Modernization efforts worked on include: an application for maintaining loan consolidations for customers; an internal time tracking system utilized by multiple departments with a completely redesigned database; an application that passively runs pre-programmed, scheduled routines against pre-defined SQL databases; and a template-driven email sending service.",
+        "Segment internal applications to multiple new domains and environments with negligible user impact.",
+        "Migrate and containerize applications to AWS.",
+        "Communicate and coordinate with multiple teams for successful code deployments."
+      ]
+    },
+    {
+      "title": "Emelar Consulting Group",
+      "position": "Software Development Intern",
+      "startDate": "7/1/2020",
+      "endDate": "6/1/2021",
+      "description": "desc text",
+      "image": "Emelar.png",
+      "duties": [
+        "Configure and customize the Salesforce Platform according to client specifications by utilizing Apex, SOQL, and web service technologies.",
+        "Create custom tools and interfaces with JavaScript, Apex, and Unity to better allow Emelar employees to interact with client documents and tracked data.",
+        "Perform administrative tasks with the Salesforce platform (including managing changesets, adjusting permission sets for Users, creating custom Objects with specialized and automated interactions with other Objects, creating custom reports connected to automated email surveys, etc.)",
+        "Participate in efforts to develop and execute testing, training, and documentation of custom work in Salesforce for clients.",
+        "Work with a team to ensure the satisfaction of clients during the development stages as well as additional support after development has ceased."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "University of Wisconsin - Madison",
+      "startDate": "2017",
+      "endDate": "2021",
+      "image": "UW.png",
+      "degrees": [
+        "Bachelor of Science in Computer Science",
+        "Mathematics Certificate"
+      ]
+    }
+  ],
+  "technical-knowledge": [
+    {
+      "category": "C#",
+      "skills": [".NET", "VB.NET", "Entity Framework", "LINQ", "MediatR", "NuGet", "WPF"]
+    },
+    {
+      "category": "Web Technologies",
+      "skills": ["Angular", "HTML5 / CSS / SCSS", "JavaScript", "Node.js", "Nx", "TypeScript", "Postman"]
+    },
+    {
+      "category": "Other Languages",
+      "skills": ["C / C++", "Java / JUnit", "LaTeX", "Python / PyTorch"]
+    },
+    {
+      "category": "Version Control",
+      "skills": ["Git", "GitLab", "GitHub", "Sourcetree", "TFS"]
+    },
+    {
+      "category": "Databases",
+      "skills": ["SQL Server", "SOQL"]
+    },
+    {
+      "category": "Project Management",
+      "skills": ["Confluence", "Jira", "Trello"]
+    },
+    {
+      "category": "IDEs",
+      "skills": ["Eclipse", "IntelliJ", "Visual Studio", "Visual Studio Code"]
+    }
+  ]
+}
