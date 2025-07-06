@@ -18,7 +18,7 @@ export default function NavBar() {
           <Nav.Link
             target="_blank"
             type="application/pdf"
-            href="../../../public/assets/Resume.pdf"
+            href="./assets/Resume.pdf"
           >
             Resume
           </Nav.Link>
