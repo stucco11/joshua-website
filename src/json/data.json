@@ -8,11 +8,12 @@
       "description": "desc text",
       "image": "Nelnet.png",
       "duties": [
-        "Maintain multiple internal applications while assisting with concurrent modernization efforts of those applications.",
-        "Modernization efforts worked on include: an application for maintaining loan consolidations for customers; an internal time tracking system utilized by multiple departments with a completely redesigned database; an application that passively runs pre-programmed, scheduled routines against pre-defined SQL databases; and a template-driven email sending service.",
-        "Segment internal applications to multiple new domains and environments with negligible user impact.",
-        "Migrate and containerize applications to AWS.",
-        "Communicate and coordinate with multiple teams for successful code deployments."
+        "Maintaining internal applications and services.",
+        "Led a large-scale application restructuring, delegated tasks to available team members and coordinated with other teams over the span of five months.",
+        "Ensuring the timely delivery of new functionality while facilitating in clear communication with stakeholders for questions and validation.",
+        "Communicating and coordinating with multiple teams for successful code deployments.",
+        "Overhauled applications to use modern programming standards and practices.",
+        "Segmented internal applications to multiple new domains and environments with negligible user impact."
       ]
     },
     {
@@ -23,11 +24,11 @@
       "description": "desc text",
       "image": "Emelar.png",
       "duties": [
-        "Configure and customize the Salesforce Platform according to client specifications by utilizing Apex, SOQL, and web service technologies.",
-        "Create custom tools and interfaces with JavaScript, Apex, and Unity to better allow Emelar employees to interact with client documents and tracked data.",
-        "Perform administrative tasks with the Salesforce platform (including managing changesets, adjusting permission sets for Users, creating custom Objects with specialized and automated interactions with other Objects, creating custom reports connected to automated email surveys, etc.)",
-        "Participate in efforts to develop and execute testing, training, and documentation of custom work in Salesforce for clients.",
-        "Work with a team to ensure the satisfaction of clients during the development stages as well as additional support after development has ceased."
+        "Configured and customized the Salesforce Platform according to client specifications by utilizing Apex, SOQL, and web service technologies.",
+        "Created custom tools and interfaces with JavaScript, Apex, and Unity to better allow Emelar employees to interact with client documents and tracked data.",
+        "Performed administrative tasks with the Salesforce platform (including managing changesets, adjusting permission sets for Users, creating custom Objects with specialized and automated interactions with other Objects, creating custom reports connected to automated email surveys, etc.)",
+        "Participated in efforts to develop and execute testing, training, and documentation of custom work in Salesforce for clients.",
+        "Worked with a team to ensure the satisfaction of clients during the development stages as well as additional support after development had ceased."
       ]
     }
   ],
@@ -38,8 +39,8 @@
       "endDate": "2021",
       "image": "UW.png",
       "degrees": [
-        "Bachelor of Science in Computer Science",
-        "Mathematics Certificate"
+        "Bachelors of Science - Computer Science",
+        "Minor - Mathematics"
       ]
     }
   ],
